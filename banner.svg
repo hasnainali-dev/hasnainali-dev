@@ -95,7 +95,7 @@
 
   <!-- Main Name -->
   <text x="130" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="62" 
-        fill="#ffffff" font-weight="800" letter-spacing="1">Uzair Chand</text>
+        fill="#ffffff" font-weight="800" letter-spacing="1">Hasnain Ali</text>
 
   <!-- Subtitle -->
   <text x="130" y="250" font-family="'Segoe UI', Arial, sans-serif" font-size="24" 
@@ -139,7 +139,7 @@
   </text>
 
   <text x="770" y="215" font-family="'Consolas', 'Courier New', monospace" font-size="16" fill="#e0e0e0">
-    <tspan fill="#c792ea">name</tspan><tspan fill="#89ddff">:</tspan> <tspan fill="#c3e88d">"Uzair"</tspan><tspan fill="#89ddff">,</tspan>
+    <tspan fill="#c792ea">name</tspan><tspan fill="#89ddff">:</tspan> <tspan fill="#c3e88d">"Hasnain Ali"</tspan><tspan fill="#89ddff">,</tspan>
   </text>
 
   <text x="770" y="243" font-family="'Consolas', 'Courier New', monospace" font-size="16" fill="#e0e0e0">
