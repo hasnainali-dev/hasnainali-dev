@@ -82,3 +82,58 @@ Modern personal portfolio with interactive sections, responsive design, and smoo
 **React · Tailwind CSS · GSAP · Framer Motion · React Router**
 
 ---
+## 🎯 Development Journey
+
+```text
+Web Fundamentals
+       ↓
+Frontend Development
+       ↓
+React Development
+       ↓
+Modern UI & Animations
+       ↓
+API Integration
+       ↓
+Next.js
+       ↓
+Backend Development
+       ↓
+Node.js + Express
+       ↓
+MongoDB + REST APIs
+       ↓
+Full-Stack Development
+
+```
+
+## 💡 What I Believe
+
+> Great applications are built by combining clean code, thoughtful design, useful functionality, and continuous learning.
+
+I believe in **learning by building** — taking ideas, turning them into projects, solving problems along the way, and improving with every application I create.
+
+---
+
+## 🔭 Currently Working On
+
+- 🚀 Building full-stack web applications
+- ⚛️ Developing React & Next.js projects
+- ⚙️ Building backend APIs with Node.js & Express
+- 🗄️ Working with MongoDB & REST APIs
+- 🏢 Developing SaaS and business management systems
+- 🎨 Creating modern interactive & animated websites
+MongoDB
+  ↓
+REST APIs
+## 🤝 Let's Work Together
+
+- 🌐 **[Portfolio](https://uzairchandportfolio.netlify.app/)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/uzair-chand-889418356/)**
+- 🐙 **[GitHub](https://github.com/uzairchand)**
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+🚀 **Keep Building. Keep Learning.**
